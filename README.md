@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+---
++ 42 Seoul Intra ID : hyeongki
+---
+
 <!--
 **Sinryuji/Sinryuji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
