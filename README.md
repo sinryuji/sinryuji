@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ---
-+ 42 Seoul Intra ID : hyeongki
++ 42 Seoul Intra ID : hyeongki😄
 ---
 
 <!--
