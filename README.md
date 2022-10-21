@@ -1,10 +1,8 @@
-### Hi there 👋
-
----
-+ 42 Seoul Intra ID : hyeongki😄
----
+<div align="center">
 
 [![hyeongki's 42 stats](https://badge42.vercel.app/api/v2/cl485cdh9001609ldkczykijk/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
+
+</div>
 <!--
 **Sinryuji/Sinryuji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
