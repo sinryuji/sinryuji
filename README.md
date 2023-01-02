@@ -1,6 +1,8 @@
 <div align="center">
 
 [![hyeongki's 42 stats](https://badge42.vercel.app/api/v2/cl485cdh9001609ldkczykijk/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nobil2474)](https://solved.ac/nobil2474/)
 
 </div>
 <!--
