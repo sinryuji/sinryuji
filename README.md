@@ -3,6 +3,8 @@
 [![hyeongki's 42 stats](https://badge42.vercel.app/api/v2/cl485cdh9001609ldkczykijk/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinryuji&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinryuji&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sinryuji)](https://solved.ac/sinryuji/)  
   
