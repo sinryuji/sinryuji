@@ -3,8 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=3383ff&height=300&section=header&text=sinryuji&fontSize=90" />
 </div>
 
-<br>
-
 <!-- content -->
 <h3 align="center">🧑🏻‍💻 Tech Stack 🧑🏻‍💻</h3>
 
@@ -81,8 +79,9 @@
   </a>
 </div>
 
-<br><br>
+<br>
 
+<h3 align="center">✨ Stat ✨</h3>
 <div align="center">
   
   ![sinryuji's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinryuji&show_icons=true&theme=radical)
