@@ -2,8 +2,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=3383ff&height=300&section=header&text=sinryuji&fontSize=90" />
   
+  ![sinryuji's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinryuji&show_icons=true&theme=radical)
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sinryuji)](https://solved.ac/sinryuji/)
 </div>
+
+<br>
 
 <!-- content -->
 <h3 align="center">🧑🏻‍💻 Tech Stack 🧑🏻‍💻</h3>
@@ -69,15 +72,18 @@
 
 <br>
 
+
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://velog.io/@sinryuji">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white"/>
   </a>
+  <br>
   <a href="mailto:siler2474@gmail.com">
     <img src="https://img.shields.io/badge/siler2474@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
+
 
 
 <!--
