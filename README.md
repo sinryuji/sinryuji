@@ -1,6 +1,6 @@
 <!-- title -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=3383ff&height=300&section=header&text=sinryuji&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=sinryuji&fontSize=90" />
 </div>
 
 <!-- content -->
