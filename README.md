@@ -93,7 +93,7 @@
 <h3 align="center">✨ Stat ✨</h3>
 <div align="center">
   
-  ![sinryuji's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinryuji&show_icons=true&theme=radical)
+  <!-- ![sinryuji's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinryuji&show_icons=true&theme=radical) -->
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sinryuji)](https://solved.ac/sinryuji/)
 </div>
